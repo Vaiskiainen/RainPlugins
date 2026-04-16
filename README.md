@@ -1,6 +1,9 @@
 # RainPlugins 🌧️
 
  My plugins for the [Rain](https://www.raincord.dev/) Discord mobile Client.
+<div align="center">
+<img src="https://raw.githubusercontent.com/Vaiskiainen/RainPlugins/refs/heads/main/images/rainpluginspromo.png"></img>
+</div>
 
 ***
 
